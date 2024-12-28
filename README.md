@@ -1,2 +1,1 @@
-logo = '''https://github.com/user-attachments/assets/544d2d1c-4266-45d2-8d5a-512d9f41c0f3'''
-print(logo)
+![text](https://github.com/user-attachments/assets/a8bd99e5-cad3-44ad-8f7b-0b6cc935f904)
