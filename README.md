@@ -37,8 +37,9 @@ I'm a machine learning engineer and data analyst.
     <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3">
 </span>
 
-</div>
 ### 📈 GitHub Stats  
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=normurodoff&show_icons=true&theme=dark)  
+
+</div>
 
 </div>
