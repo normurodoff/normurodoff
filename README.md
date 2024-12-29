@@ -1,5 +1,8 @@
 # Hello World! 👋
-![text](https://github.com/user-attachments/assets/a8bd99e5-cad3-44ad-8f7b-0b6cc935f904)
+# Welcome to My Tech Universe!
+
+![Welcome GIF](https://github.com/username/repository/blob/main/yourfile.gif)
+
 ## 🧔 About Me
 **"Technology through AI Innovation"**
 
