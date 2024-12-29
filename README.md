@@ -38,6 +38,7 @@ I'm a machine learning engineer and data analyst.
 </span>
 
 </div>
- 
+### 📈 GitHub Stats  
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=normurodoff&show_icons=true&theme=dark)  
 
 </div>
