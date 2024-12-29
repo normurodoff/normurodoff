@@ -5,13 +5,13 @@
 # Hello World! 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=600&lines=Hello+my+name+is+Odilbek!;Machine+Learning+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=600&lines=Hello+my+name+is+Odilbek!;Data+Analyst!;Machine+Learning+Engineer" alt="Typing SVG" />
 </div>
 
 ## 🧔 About Me
 > "Technology through AI Innovation"
 
-I'm a Machine Learning engineer and Data Analysist.
+I'm a Machine Learning engineer and Data Analyst.
 
 ## 🎯 Current Focus
 - 🎓 Learning IELTS course at Alfraganus Academy
