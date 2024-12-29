@@ -1,4 +1,4 @@
-<div style="text-align: center;">
+<div align="center">
 
 # Hello World! 👋  
 Welcome to My Tech Universe!  
