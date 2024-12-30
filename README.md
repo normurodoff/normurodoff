@@ -1,5 +1,5 @@
 <div align="right">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=NajimovOtabek.NajimovOtabek" alt="visitors" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=normurodoff.normurodoff" alt="visitors" />
 </div>
 
 # Hello World! 👋
