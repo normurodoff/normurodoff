@@ -41,10 +41,10 @@ I'm a Machine Learning engineer and Data Analyst.
 
 <div align="center" style="display: flex; justify-content: center; gap: 10px;">
   <!-- Streak Stats -->
-  <img src="68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d4e616a696d6f764f746162656b266c61796f75743d636f6d70616374267468656d653d6769746875625f6461726b26686964655f626f726465723d747275652662675f636f6c6f723d304431313137267469746c655f636f6c6f723d43334431443926746578745f636f6c6f723d433344314439" width="48%" />
+  <img src="(https://github-readme-streak-stats.herokuapp.com/?user=normurodoff&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0D1117&stroke=30363D&ring=1F6FEB&fire=1F6FEB&currStreakNum=C3D1D9&currStreakLabel=C3D1D9&sideNums=C3D1D9&sideLabels=C3D1D9)" width="48%" />
 
   <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NajimovOtabek&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=C3D1D9&text_color=C3D1D9" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=normurodoff&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=C3D1D9&text_color=C3D1D9" width="48%" />
 </div>
 
 ## 🤝 Connect With Me
