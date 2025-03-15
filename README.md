@@ -44,7 +44,7 @@ I'm a Machine Learning engineer and Data Analyst.
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=normurodoff&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0D1117&stroke=30363D&ring=1F6FEB&fire=1F6FEB&currStreakNum=C3D1D9&currStreakLabel=C3D1D9&sideNums=C3D1D9&sideLabels=C3D1D9" width="48%" />
 
   <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NajimovOtabe&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=C3D1D9&text_color=C3D1D9" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NajimovOtabek&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=C3D1D9&text_color=C3D1D9" width="48%" />
 </div>
 
 ## 🤝 Connect With Me
