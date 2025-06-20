@@ -15,8 +15,8 @@ I'm a Machine Learning engineer and Data Analyst.
 
 ## 🎯 Current Focus
 - 🎓 Learning IELTS course at Alfraganus Academy
-- 🌱 Specializing in ML Engineering and Team Leadership
-- 🚀 Exploring cutting-edge AI/ML technologies
+- 🌱 Specializing in CV Engineering
+- 🚀 Exploring cutting-edge Computer Vision
 
 ## 🛠️ Technical Arsenal
 
